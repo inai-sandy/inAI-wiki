@@ -22,4 +22,3 @@ Daily, categorized AI news from 250+ sources.
 ## 📅 Daily Archive
 - 07 Sept — [AI News](news/2025/2025-09-07.md)
 
-> Add each new day’s link here at the **top** so the newest always comes first.
