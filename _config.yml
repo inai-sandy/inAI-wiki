@@ -1,17 +1,28 @@
-# Root config for GitHub Pages + Chirpy
+# ---------- Site basics ----------
 title: "INAI • The Open AI Hub"
 description: "2M+ AI tools, models, agents, tutorials & daily news — free for all."
+url: "https://www.inai.wiki"   # your custom domain
+baseurl: ""                    # keep empty for a root domain
 
+lang: en
+timezone: Asia/Kolkata
+
+# Tell GitHub Pages to use Chirpy
 remote_theme: cotes2020/jekyll-theme-chirpy
 
+# ---------- Plugins (GitHub Pages safe set) ----------
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-include-cache   # <- important for Chirpy
 
-lang: en
-timezone: Asia/Kolkata
-
-# IMPORTANT: your site files live in /docs
+# ---------- Where your site content lives ----------
 source: docs
+
+# ---------- Optional (safe defaults) ----------
+paginate: 10
+paginate_path: "/page:num"
+kramdown:
+  input: GFM
