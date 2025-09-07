@@ -1,16 +1,23 @@
 ---
-title: Twitter News • INAI
----
-**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md) · [AI News Daily](news.md)
-
-# 🐦 Twitter News
-
-Daily, categorized Twitter news from 500+ Twitter Prifiles.
-
+Title: Twitter News • INAI
 ---
 
-## 📅 Today
-- 👉 [07 Sept — Twitter News](twitter-news/2025/2025-09-07.md)
----
-## 📅 Daily Archive (September 2025)
-- 07 Sept — [Twitter News](twitter-news/2025/2025-09-07.md)
+# 🐦 Twitter News (Experts List)
+
+**Browse:** [Home](index.md) · [AI News Daily](news.md) · [Reddit News](reddit-news.md) · [Hacker News (AI)](hacker-news.md)
+
+> The most important AI tweets from **500+ expert accounts**. We scan hourly, filter, and summarize.
+
+## ✅ Today’s Highlights
+- Top threads and launches are summarized inside Daily AI News:
+- 👉 **[Go to Today’s AI Updates on Twitter](twitter-news/2025/2025-09-07.md)**
+
+## 📚 What shows up here
+- Tool launches, model releases, benchmarks, demos, key debates.
+
+
+## 📅 Recent Days
+- 07 Sept — Highlights included in **[Twitter News](twitter-news/2025/09/2025-09-07.md)**
+
+## 💡 Tip
+- For deep dives, check **AI News Daily**; for quick scans, follow this page.
