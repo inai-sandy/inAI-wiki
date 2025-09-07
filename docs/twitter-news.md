@@ -5,10 +5,12 @@ title: Twitter News • INAI
 
 # 🐦 Twitter News
 
-This page will capture the **most important AI tweets** from 500+ expert accounts.
+Daily, categorized Twitter news from 500+ Twitter Prifiles.
 
-- Covers real-time updates on tool launches, LLM research, and demos
-- Filtered & summarized to highlight key insights
-- Updated daily
+---
 
-👉 Daily updates coming soon.
+## 📅 Today
+- 👉 [07 Sept — Twitter News](twitter-news/2025/2025-09-07.md)
+---
+## 📅 Daily Archive (September 2025)
+- 07 Sept — [Twitter News](twitter-news/2025/2025-09-07.md)
