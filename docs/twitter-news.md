@@ -1,5 +1,4 @@
 ---
-layout: page
 Title: Twitter News • INAI
 ---
 
