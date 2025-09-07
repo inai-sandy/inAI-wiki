@@ -1,49 +1,70 @@
-# inAI • The Open AI Hub
+# 🌍 INAI • The Open AI Hub  
 
-🌍 **Mission:** Build the world’s most comprehensive, open, and useful index of AI resources —  
-AI tools, agents, LLMs, tutorials, datasets, extensions, and more — updated daily and free for all.  
-Our goal is not profit, but global access and adoption.  
+<p align="center">
+  <img src="docs/assets/inai-banner.png" alt="INAI Banner" width="800"/>
+</p>
 
----
-
-## ✨ Why inAI?
-- 📡 Aggregates from **250+ AI news sources, 500+ Twitter experts, Reddit, Hacker News**  
-- 🤖 Tracks **every Hugging Face model & space, Replicate.com model, GitHub AI repo**  
-- 🛠️ Covers **AI Tools, Agents, MCP servers, Chrome extensions, Siri shortcuts, VS Code & Workspace add-ons**  
-- 🗂️ Organized with categories, tags, and summaries (15 words each, AI+human curated)  
-- 📊 Current scale: **2,000,000+ AI resources** in MongoDB, updated daily  
-- 🎧 Paired with **AI News Daily podcast + LinkedIn newsletter** for daily highlights  
+> The **Intelligence Atlas** → the world’s most comprehensive, open hub of AI knowledge.  
+> **2 Million+ tools, models, agents, tutorials & daily news** — free for all, updated every day.  
 
 ---
 
-## 🔎 What you’ll find here
-- **Daily Highlights** → Top news & tool launches of the day  
-- **Curated Catalogs** → Organized indexes (Tools, Agents, LLMs, Extensions, Tutorials)  
-- **GitHub Pages site** → Browse in a simple, clean website format  
-- **API access (coming soon)** → Search the full 2M+ database responsibly  
+## ✨ What is INAI?
+INAI is a **non-commercial initiative** to index everything happening in AI.  
+It’s not a blog, not a list — it’s a **living map of the AI ecosystem**.  
+
+- 📰 **AI News Daily** → the day’s top stories, tools & research, categorized clearly.  
+- 🎙️ **Podcast** → “AI News Daily,” delivered to Spotify, Apple & more.  
+- 🛠️ **AI App Database** → 2 Million+ curated entries: tools, LLMs, agents, datasets, extensions.  
+- 📚 **Tutorials & Guides** → practical how-tos, workflows & educational material.  
+
+---
+
+## 🔎 Explore INAI
+**News & Updates**
+- 📰 [AI News Daily](https://www.inai.wiki/news.html)  
+- 🗓️ [AI Weekly Archive](https://www.inai.wiki/weekly.html)  
+- 🐦 [Twitter News](https://www.inai.wiki/twitter-news.html)  
+- 📢 [Reddit News](https://www.inai.wiki/reddit-news.html)  
+- 💻 [Hacker News (AI)](https://www.inai.wiki/hacker-news.html)  
+
+**Applications & Models**
+- 🛠️ [AI Tools](https://www.inai.wiki/tools.html)  
+- 🤖 [LLMs](https://www.inai.wiki/llms.html)  
+- 🧭 [Agents](https://www.inai.wiki/agents.html)  
+- 📚 [Tutorials](https://www.inai.wiki/tutorials.html)  
+
+**Podcast**
+- 🎙️ [AI News Daily Podcast](https://www.buzzsprout.com/) *(coming soon)*  
+
+---
+
+## 📊 Why INAI is Different
+- 🌍 **Global** — not just tools, but news, research, tutorials, models, extensions, datasets.  
+- 🕑 **Real-time** — updated daily from 250+ news sources & 500+ AI experts.  
+- 📈 **Scale** — 2,000,000+ AI resources already indexed.  
+- 🎯 **Curated** — filtered, tagged, summarized into meaningful categories.  
+- 💡 **Free & Open** — attribution required, but always accessible to all.  
 
 ---
 
 ## 📅 Roadmap
-- [ ] Daily updates published to GitHub Pages  
-- [ ] Category pages (Tools / Agents / LLMs / Extensions / Tutorials)  
-- [ ] Public API with rate-limits + attribution  
-- [ ] Weekly “Top 100 AI tools” digest  
-- [ ] Community contribution guidelines  
+- ✅ Daily AI News published  
+- ✅ Weekly archives live  
+- ⏳ Daily AI Tools showcase from Airtable → GitHub Pages  
+- ⏳ Expand Database (VS Code extensions, Siri Shortcuts, MCP servers, Hugging Face models)  
+- ⏳ Site redesign (cards, global search, branding)  
+- ⏳ Public API for responsible access to 2M+ dataset  
 
 ---
 
-## ⚖️ License & Terms
-- **License:** [CC BY-NC 4.0](LICENSE.md) (Attribution + Non-Commercial)  
-- **Terms:** [TERMS.md](TERMS.md) (no bulk copying, attribution required, API use only)  
+## ⚖️ License
+- [CC BY-NC 4.0](LICENSE.md) — free to use with attribution, non-commercial only.  
+- [TERMS.md](TERMS.md) — no bulk scraping, attribution required, API access only.  
 
 ---
 
-## ⭐ How you can help
-- **Star this repo** to support the mission  
-- Share with friends, communities, and universities  
-- Open Issues for missing categories, corrections, or ideas  
-
----
-
-**INAI = “Intelligence Atlas”** → the open AI map for the world.  
+<p align="center">  
+🌍 **INAI = Intelligence Atlas** → mapping the AI ecosystem for everyone.  
+<br/>⭐ Star this repo to support the mission.  
+</p>
