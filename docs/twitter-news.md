@@ -1,6 +1,7 @@
 ---
 title: Twitter News • INAI
 ---
+**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md) · [AI News Daily](news.md)
 
 # 🐦 Twitter News
 
