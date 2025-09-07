@@ -1,16 +1,15 @@
 ---
-title: Reddit News • INAI
----
-**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md) · [AI News Daily](news.md)
-
-# 📢 Reddit News
-
-Daily, categorized Reddit news from 10+ subReddits.
-
+Title: Reddit News • INAI
 ---
 
-## 📅 Today
-- 👉 [07 Sept — Reddit News](reddit-news/2025/2025-09-07.md)
----
-## 📅 Daily Archive (September 2025)
-- 07 Sept — [Reddit News](reddit-news/2025/2025-09-07.md)
+# 📢 Reddit News (Curated Subreddits)
+
+**Browse:** [Home](index.md) · [AI News Daily](news.md) · [Twitter News](twitter-news.md) · [Hacker News (AI)](hacker-news.md)
+
+> Daily roundup from top AI subreddits — showcases, releases, discussions.
+
+## ✅ Today’s Highlights
+- Included inside: 👉 **[AI News — 07 Sept](news/2025/2025-09-07.md)**
+
+## 📅 Recent Days
+- 07 Sept — see **[AI News](news/2025/2025-09-07.md)**
