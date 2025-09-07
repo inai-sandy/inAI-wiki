@@ -1,6 +1,7 @@
 ---
 title: INAI • The Open AI Hub
 ---
+**Browse:** [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md)
 
 # INAI • The Open AI Hub
 
@@ -11,6 +12,6 @@ Welcome! This is the public site for **inai.wiki** — a curated, open index of 
 - 🤖 LLMs: (coming soon)
 - 🛠️ Agents: (coming soon)
 - 📚 Tutorials: (coming soon)
-- 🔗 Explore: [AI Tools](tools.md)
+- 🔗 Explore: [AI Tools](tools.md) • [LLMs](llms.md) • [Agents](agents.md) • [Tutorials](tutorials.md)
 
 👉 Use the GitHub repo for full notes. We’ll add categories and simple search next.
