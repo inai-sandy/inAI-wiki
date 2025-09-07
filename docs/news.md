@@ -5,7 +5,7 @@ title: AI News Daily • INAI
 
 # 📰 AI News Daily
 
-Daily, categorized AI news from 250+ sources.
+Daily, categorized AI news from 250+ sources and 500+ Twitter Profiles.
 
 ---
 
