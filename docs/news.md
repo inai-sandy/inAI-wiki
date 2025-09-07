@@ -1,4 +1,5 @@
 ---
+layout: page
 Title: AI News Daily • INAI
 ---
 
