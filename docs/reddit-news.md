@@ -5,10 +5,12 @@ title: Reddit News • INAI
 
 # 📢 Reddit News
 
-This page will highlight top **AI posts from curated subreddits**.
+Daily, categorized Reddit news from 10+ subReddits.
 
-- Community discussions, showcases, and debates
-- Summarized for quick reading
-- Updated daily
+---
 
-👉 Daily updates coming soon.
+## 📅 Today
+- 👉 [07 Sept — Reddit News](reddit-news/2025/2025-09-07.md)
+---
+## 📅 Daily Archive (September 2025)
+- 07 Sept — [Reddit News](reddit-news/2025/2025-09-07.md)
