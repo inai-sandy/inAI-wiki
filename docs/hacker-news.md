@@ -1,5 +1,4 @@
 ---
-layout: page
 Title: Hacker News AI • INAI
 ---
 
