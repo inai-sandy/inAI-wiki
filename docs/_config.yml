@@ -1,3 +1,15 @@
 title: "INAI • The Open AI Hub"
-description: "The world’s largest open, curated index of AI tools, models, agents & tutorials."
-theme: jekyll-theme-cayman
+description: "2M+ AI tools, models, agents, tutorials & daily news — free for all."
+
+# Use Chirpy as a remote theme
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# GitHub Pages–safe plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+lang: en
+timezone: Asia/Kolkata
