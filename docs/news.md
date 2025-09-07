@@ -2,12 +2,24 @@
 title: AI News Daily • INAI
 ---
 **Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md) · [AI News Daily](news.md)
+
 # 📰 AI News Daily
 
-This page will publish the **daily digest of AI news** collected from 250+ global sources.
+Daily, categorized AI news from 250+ sources.
 
-- Summarized in clear categories (New Tools, LLM Updates, Research, Industry News)
-- Includes context-rich summaries (150–200 words)
-- Updated **every morning**
+---
 
-👉 Daily updates coming soon.
+## 📅 Today
+- 👉 [07 Sept — AI News](news/2025/2025-09-07.md)
+
+---
+
+## 🗓️ Weekly Archive
+- 📚 [AI Weekly](weekly.md)
+
+---
+
+## 📅 Daily Archive
+- 07 Sept — [AI News](news/2025/2025-09-07.md)
+
+> Add each new day’s link here at the **top** so the newest always comes first.
