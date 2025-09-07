@@ -5,10 +5,12 @@ title: Hacker News AI • INAI
 
 # 💻 Hacker News — AI
 
-This page will feature **AI-related discussions and posts from Hacker News**.
+Daily, categorized AI Hacker news & updates.
 
-- Focus on technical depth, frameworks, and benchmarks
-- Summarized into clear takeaways
-- Updated daily
+---
 
-👉 Daily updates coming soon.
+## 📅 Today
+- 👉 [07 Sept — Hacker News](hacker-news/2025/2025-09-07.md)
+---
+## 📅 Daily Archive (September 2025)
+- 07 Sept — [Hacker News](hacker-news/2025/2025-09-07.md)
