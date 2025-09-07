@@ -1,24 +1,29 @@
 ---
-title: AI News Daily • INAI
+Title: AI News Daily • INAI
 ---
-**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md) · [AI News Daily](news.md)
 
 # 📰 AI News Daily
 
-Daily, categorized AI news from 250+ sources and 500+ Twitter Profiles.
+**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md)
 
----
+> Daily, categorized AI news from **250+ sources** & **500+ experts**— New Tools, LLMs, Research, Industry, Tutorials.
 
-## 📅 Today
-- 👉 [07 Sept — AI News](news/2025/2025-09-07.md)
+## ✅ Today
+- 👉 **[07 Sept — AI News](news/2025/2025-09-07.md)**
 
----
+## 🔎 How to use this page
+- Start with **Today** for a fast TL;DR, then dive into sections.
+- Use the **Weekly Archive** to catch up quickly.
+- Each daily page links **Prev/Next** for easy navigation.
 
 ## 🗓️ Weekly Archive
 - 📚 [AI Weekly](weekly.md)
 
----
-
 ## 📅 Daily Archive
+### September 2025
 - 07 Sept — [AI News](news/2025/2025-09-07.md)
 
+
+## 📣 Share & Follow
+- If this helps you, please ⭐ **star** the repo.
+- Link to **www.inai.wiki/news.html** in communities and newsletters.
