@@ -1,0 +1,17 @@
+# Root config for GitHub Pages + Chirpy
+title: "INAI • The Open AI Hub"
+description: "2M+ AI tools, models, agents, tutorials & daily news — free for all."
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+lang: en
+timezone: Asia/Kolkata
+
+# IMPORTANT: your site files live in /docs
+source: docs
