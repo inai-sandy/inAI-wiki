@@ -13,6 +13,6 @@ Welcome! This is the public site for **inai.wiki** — a curated, open index of 
 - 🛠️ Agents: (coming soon)
 - 📚 Tutorials: (coming soon)
 - 🔗 Explore: [AI Tools](tools.md) • [LLMs](llms.md) • [Agents](agents.md) • [Tutorials](tutorials.md)
-- 🔗 News: [AI News Daily](news.md) • [Twitter News](twitter-news.md) • [Reddit News](reddit-news.md) • [Hacker News AI](hacker-news.md)
+- 🔗 News: [AI News Daily](news.md) • [Twitter News](twitter-news.md) • [Reddit News](reddit-news.md) • [Hacker News AI](hacker-news.md) • 🔗 Archive: [AI Weekly](weekly.md)
 
 👉 Use the GitHub repo for full notes. We’ll add categories and simple search next.
