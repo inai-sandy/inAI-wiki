@@ -1,7 +1,7 @@
 ---
 title: INAI • The Open AI Hub
 ---
-**Browse:** [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md)
+**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md) · [AI News Daily](news.md)
 
 # INAI • The Open AI Hub
 
