@@ -1,16 +1,15 @@
 ---
-title: Hacker News AI • INAI
+Title: Hacker News AI • INAI
 ---
-**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md) · [AI News Daily](news.md)
 
 # 💻 Hacker News — AI
 
-Daily, categorized AI Hacker news & updates.
+**Browse:** [Home](index.md) · [AI News Daily](news.md) · [Twitter News](twitter-news.md) · [Reddit News](reddit-news.md)
 
----
+> Technical discussions, libraries, and benchmarks from HN — summarized for quick reading.
 
-## 📅 Today
-- 👉 [07 Sept — Hacker News](hacker-news/2025/2025-09-07.md)
----
-## 📅 Daily Archive (September 2025)
-- 07 Sept — [Hacker News](hacker-news/2025/2025-09-07.md)
+## ✅ Today’s Highlights
+- Included inside: 👉 **[Hacker News — 07 Sept](hacker-news/2025/2025-09-07.md)**
+
+## 📅 Recent Days
+- 07 Sept — see **[Hacker News](hacker-news/2025/2025-09-07.md)**
