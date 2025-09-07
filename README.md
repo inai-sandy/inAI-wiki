@@ -6,7 +6,7 @@ Our goal is not profit, but global access and adoption.
 
 ---
 
-## ✨ Why INAI?
+## ✨ Why inAI?
 - 📡 Aggregates from **250+ AI news sources, 500+ Twitter experts, Reddit, Hacker News**  
 - 🤖 Tracks **every Hugging Face model & space, Replicate.com model, GitHub AI repo**  
 - 🛠️ Covers **AI Tools, Agents, MCP servers, Chrome extensions, Siri shortcuts, VS Code & Workspace add-ons**  
