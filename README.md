@@ -1,4 +1,4 @@
-# INAI • The Open AI Hub
+# inAI • The Open AI Hub
 
 🌍 **Mission:** Build the world’s most comprehensive, open, and useful index of AI resources —  
 AI tools, agents, LLMs, tutorials, datasets, extensions, and more — updated daily and free for all.  
