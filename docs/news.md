@@ -5,6 +5,7 @@ Title: AI News Daily • INAI
 # 📰 AI News Daily
 
 **Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md)
+**Browse:** [Home](index.md) · [Twitter News ](twitter-news.md) · [Reddit News](reddit-news.md) · [Hacker News (AI)](hacker-news.md)
 
 > Daily, categorized AI news from **250+ sources** & **500+ experts**— New Tools, LLMs, Research, Industry, Tutorials.
 
