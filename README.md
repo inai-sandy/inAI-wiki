@@ -22,11 +22,11 @@ It’s not a blog, not a list — it’s a **living map of the AI ecosystem**.
 
 ## 🔎 Explore INAI
 **News & Updates**
-- 📰 [AI News Daily](https://www.inai.wiki/news.html)  
-- 🗓️ [AI Weekly Archive](https://www.inai.wiki/weekly.html)  
-- 🐦 [Twitter News](https://www.inai.wiki/twitter-news.html)  
-- 📢 [Reddit News](https://www.inai.wiki/reddit-news.html)  
-- 💻 [Hacker News (AI)](https://www.inai.wiki/hacker-news.html)  
+- 📰 [AI News Daily](docs/news.md)
+- 🗓️ [AI Weekly Archive](docs/weekly.md)  
+- 🐦 [Twitter News](docs/twitter-news.md)  
+- 📢 [Reddit News](docs/reddit-news.md)  
+- 💻 [Hacker News (AI)](docs/hacker-news.md) 
 
 **Applications & Models**
 - 🛠️ [AI Tools](https://www.inai.wiki/tools.html)  
