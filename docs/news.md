@@ -18,14 +18,19 @@ Title: AI News Daily • INAI
 - Use the **Weekly Archive** to catch up quickly.
 - Each daily page links **Prev/Next** for easy navigation.
 
-## 🗓️ Weekly Archive
-- 📚 [AI Weekly](weekly.md)
+## 🔎 New AI Tools, Agents & LLM added Daily 
+### September 2025
+- 08 Sept — [New AI Tools](https://inai.short.gy/8th-sept)
+- 07 Sept — [New AI Tools](https://inai.short.gy/7th-sept)
+- 06 Sept — [New AI Tools](https://inai.short.gy/6thsept)
 
 ## 📅 Daily Archive
 ### September 2025
 - 08 Sept — [AI News](news/2025/2025-09-08.md)
 - 07 Sept — [AI News](news/2025/2025-09-07.md)
 
+## 🗓️ Weekly Archive
+- 📚 [AI Weekly](weekly.md)
 
 ## 📣 Share & Follow
 - If this helps you, please ⭐ **star** the repo.
