@@ -1,5 +1,7 @@
 ---
-Title: AI News Daily • INAI
+title: AI News Daily • INAI
+description: "Daily AI news from 250+ sources & 500+ experts — new tools, LLMs, research, industry."
+image: /assets/inai-news-banner.png
 ---
 
 # 📰 AI News Daily
