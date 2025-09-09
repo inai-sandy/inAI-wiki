@@ -34,8 +34,9 @@ It’s not a blog, not a list — it’s a **living map of the AI ecosystem**.
 - 🧭 [Agents](https://www.inai.wiki/agents.html)  
 - 📚 [Tutorials](https://www.inai.wiki/tutorials.html)  
 
-**Podcast**
-- 🎙️ [AI News Daily Podcast](https://www.buzzsprout.com/) *(coming soon)*  
+## 🎧 Podcast
+**Today Podcast updated**
+- 🎙️ [AI News Daily Podcast](https://ainews.buzzsprout.com) 
 
 ---
 
