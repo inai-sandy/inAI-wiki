@@ -28,7 +28,7 @@ It’s not a blog, not a list — it’s a **living map of the AI ecosystem**.
 - 📢 [Reddit News](docs/reddit-news.md)  
 - 💻 [Hacker News (AI)](docs/hacker-news.md) 
 
-**Applications & Models**
+**Applications & Models** (coming soon)
 - 🛠️ [AI Tools](https://www.inai.wiki/tools.html)  
 - 🤖 [LLMs](https://www.inai.wiki/llms.html)  
 - 🧭 [Agents](https://www.inai.wiki/agents.html)  
