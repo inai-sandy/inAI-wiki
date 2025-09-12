@@ -12,6 +12,7 @@ Title: Reddit News • INAI
 - Included inside: 👉 **[Reddit News — 11 Sept](reddit-news/2025/2025-09-11.md)**
 
 ## 📅 Recent Days
+- 12 Sept — see **[Reddit News](reddit-news/2025/2025-09-12.md)**
 - 11 Sept — see **[Reddit News](reddit-news/2025/2025-09-11.md)**
 - 10 Sept — see **[Reddit News](reddit-news/2025/2025-09-10.md)**
 - 09 Sept — see **[Reddit News](reddit-news/2025/2025-09-09.md)**
