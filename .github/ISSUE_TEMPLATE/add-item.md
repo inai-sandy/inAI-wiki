@@ -1,15 +1,15 @@
 ---
 name: "🚀 Add new AI App/Agent/LLM"
 about: Suggest a new entry for the INAI knowledge base
-title: "[NEW] <App/Agent/LLM Name>"
-labels: enhancement
+title: "[NEW] <Name>"
+labels: ["enhancement","data"]
 ---
 
 **Name**
-App/Agent/LLM name
+<Enter the name>
 
 **Link**
-URL
+<URL>
 
 **Category**
 - [ ] App/Tool
@@ -18,5 +18,8 @@ URL
 - [ ] Chrome Extension
 - [ ] LLM/Model
 
-**Short Description**
-1–2 lines about what it does
+**Short Description (1–2 lines)**
+<What does it do?>
+
+**Source / Proof (optional)**
+<Launch post, docs, HN, tweet, etc.>
