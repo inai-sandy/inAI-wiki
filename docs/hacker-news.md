@@ -12,7 +12,7 @@ Title: Hacker News AI • INAI
 - Included inside: 👉 **[Hacker News — 13 Sept](hacker-news/2025/2025-09-13.md)**
 
 ## 📅 Recent Days
-- 12 Sept — see **[Hacker News](hacker-news/2025/2025-09-13.md)**
+- 13 Sept — see **[Hacker News](hacker-news/2025/2025-09-13.md)**
 - 12 Sept — see **[Hacker News](hacker-news/2025/2025-09-12.md)**
 - 11 Sept — see **[Hacker News](hacker-news/2025/2025-09-11.md)**
 - 10 Sept — see **[Hacker News](hacker-news/2025/2025-09-10.md)**
