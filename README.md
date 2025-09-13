@@ -72,19 +72,19 @@ Not just a blog or a list; it’s a **living map of the AI ecosystem**.
 
 ## 🔎 Explore INAI
 **News & Updates**
-- 📰 [AI News Daily](docs/news.md)  
-- 🐦 [Twitter AI Digest](docs/twitter-news.md)  
-- 📢 [Reddit AI Highlights](docs/reddit-news.md)  
-- 💻 [Hacker News (AI)](docs/hacker-news.md)  
-- 🗓️ [Weekly Archives](docs/weekly.md)  
+- 📰 [AI News Daily](docs/news.md)  → Curated **daily AI news** from 250+ sources & experts. 
+- 🐦 [Twitter AI Digest](docs/twitter-news.md)  → Latest **AI trends & discussions from 500+ AI Users on Twitter/X** 
+- 📢 [Reddit AI Highlights](docs/reddit-news.md)  → Top **AI posts & debates from Reddit communities**
+- 💻 [Hacker News (AI)](docs/hacker-news.md)  → Popular **AI projects & research on Hacker News**.
+- 🗓️ [Weekly Archives](docs/weekly.md) → A complete **weekly archive of AI tools & news**. 
 
 **Applications & Knowledge**
-- 🛠️ [AI Apps & Tools](docs/apps.md)  
-- 🤖 [AI Agents](docs/agents.md)  
-- 🧩 [MCP Servers](docs/mcp.md)  
-- 🧪 [Chrome Extensions](docs/extensions.md)  
-- 🧠 [LLMs & Models](docs/llms.md)  
-- 📚 [Tutorials & Guides](docs/tutorials.md)  
+- 🛠️ [AI Apps & Tools](docs/apps.md) - Browse **AI apps, tools, and open-source projects**.  
+- 🤖 [AI Agents](docs/agents.md) - Discover the latest **AI agents, workflows, and productivity bots**.  
+- 🧩 [MCP Servers](docs/mcp.md) - Index of **Model Context Protocol (MCP) servers** for AI integration. 
+- 🧪 [Chrome Extensions](docs/extensions.md) - Curated list of **AI-powered Chrome extensions**.  
+- 🧠 [LLMs & Models](docs/llms.md) - Comprehensive **LLM database**: open-source models, fine-tunes, benchmarks.   
+- 📚 [Tutorials & Guides](docs/tutorials.md) - Step-by-step **AI tutorials, workflows, and educational material**. 
 
 ---
 
