@@ -1,0 +1,23 @@
+name: Fork Message
+on:
+  fork:
+    types: [created]
+
+jobs:
+  thanks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create comment in discussions
+        uses: peter-evans/create-discussion@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: inai-sandy/inAI-wiki
+          category: General
+          title: "Thanks for forking INAI!"
+          body: |
+            👋 Thanks for forking **INAI**!  
+
+            ⭐ Consider [starring the repo](https://github.com/inai-sandy/inAI-wiki/stargazers) to support the mission.  
+
+            💡 You can also contribute by opening a PR:  
+            👉 [How to contribute](https://github.com/inai-sandy/inAI-wiki/blob/main/CONTRIBUTING.md)
