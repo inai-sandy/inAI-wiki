@@ -1,3 +1,21 @@
+<div align="center">
+
+# 🚀 INAI • The Open AI Hub  
+
+[![GitHub stars](https://img.shields.io/github/stars/inai-sandy/inAI-wiki?style=flat&color=yellow)](https://github.com/inai-sandy/inAI-wiki/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/inai-sandy/inAI-wiki?style=flat&color=blue)](https://github.com/inai-sandy/inAI-wiki/network/members)
+[![License](https://img.shields.io/github/license/inai-sandy/inAI-wiki?color=green)](LICENSE.md)
+[![Contributors](https://img.shields.io/github/contributors/inai-sandy/inAI-wiki?color=orange)](https://github.com/inai-sandy/inAI-wiki/graphs/contributors)
+
+⭐ **If you like this project, please [star it on GitHub](https://github.com/inai-sandy/inAI-wiki/stargazers) — it helps a lot!** ⭐  
+
+Maintained by [Sandeep Karnati](https://github.com/inai-sandy) •  
+Latest updates 👉 [inai.wiki](https://www.inai.wiki)
+
+</div>
+
+---
+
 # 🌍 INAI • The Open AI Hub
 
 <p align="center">
@@ -72,7 +90,7 @@ Not just a blog or a list; it’s a **living map of the AI ecosystem**.
 ## 🔥 Recently Added
 We **add new content daily** — fresh apps, agents, and LLMs to keep you ahead.  
 
-- ➡️ [See the Latest Additions](https://inai.short.gy/13th-sept)
+➡️ [See the Latest Additions](https://inai.short.gy/13th-sept)
 
 > INAI’s **2M+ AI Database** is alive and growing — every day.
 
@@ -101,12 +119,24 @@ We **add new content daily** — fresh apps, agents, and LLMs to keep you ahead.
 
 ---
 
+## ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=inai-sandy/inAI-wiki&type=Date)](https://star-history.com/#inai-sandy/inAI-wiki&Date)
+
+---
+
 ## 🤝 Contribute
 You can help right now:  
 - ⭐ **Star** this repo — it signals interest & boosts discovery  
 - 📰 Share news/tools/tutorials via **Issues**  
 - 🔧 Open PRs for fixes, tags, or new sources  
 - 📣 Spread the word on **X / Reddit / HN / LinkedIn**  
+
+---
+
+### 📢 Share INAI
+Add this badge to your repo, docs, or website to support INAI:
+
+[![Upstream](https://img.shields.io/badge/Upstream-inAI--wiki-blue)](https://github.com/inai-sandy/inAI-wiki)
 
 ---
 
