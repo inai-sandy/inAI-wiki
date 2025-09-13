@@ -12,6 +12,7 @@
 Maintained by [Sandeep Karnati](https://github.com/inai-sandy) •  
 Latest updates 👉 [inai.wiki](https://www.inai.wiki)
 
+📖 See [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step instructions.
 </div>
 
 ---
