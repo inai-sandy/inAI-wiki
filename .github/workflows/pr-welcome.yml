@@ -1,0 +1,21 @@
+name: PR Welcome
+on:
+  pull_request_target:
+    types: [opened]
+
+permissions:               # ✅ required to comment on PRs
+  pull-requests: write
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Thank the contributor
+        uses: mshick/add-pr-comment@v2
+        with:
+          message: |
+            🙌 Thanks for your PR to **INAI**!  
+
+            📋 Please confirm you've checked our [CONTRIBUTING.md](https://github.com/inai-sandy/inAI-wiki/blob/main/CONTRIBUTING.md).  
+
+            ⭐ If you haven't yet, please [star the repo](https://github.com/inai-sandy/inAI-wiki/stargazers) — it helps visibility!
