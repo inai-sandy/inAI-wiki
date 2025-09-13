@@ -3,7 +3,7 @@ on:
   fork:
     types: [created]
 
-permissions:                # 👈 must be here, under "on:"
+permissions:               # ✅ required to create Discussions
   discussions: write
 
 jobs:
@@ -15,8 +15,12 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: inai-sandy/inAI-wiki
-          category: General
+          category: General      # 👈 make sure you created a "General" category in Discussions
           title: "🎉 Thanks for forking INAI!"
           body: |
-            👋 Thanks for forking **INAI**!
-            ⭐ Please consider starring the repo 👉 https://github.com/inai-sandy/inAI-wiki/stargazers
+            👋 Thanks for forking **INAI**!  
+
+            ⭐ Please consider [starring the repo](https://github.com/inai-sandy/inAI-wiki/stargazers).  
+
+            💡 You can also contribute:
+            👉 [How to contribute](https://github.com/inai-sandy/inAI-wiki/blob/main/CONTRIBUTING.md)
