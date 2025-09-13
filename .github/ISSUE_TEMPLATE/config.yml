@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question in Discussions
+    url: https://github.com/inai-sandy/inAI-wiki/discussions/new
+    about: Use this for general questions or guidance
