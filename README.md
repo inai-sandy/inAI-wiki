@@ -72,7 +72,7 @@ Not just a blog or a list; it’s a **living map of the AI ecosystem**.
 ## 🔥 Recently Added
 We **add new content daily** — fresh apps, agents, and LLMs to keep you ahead.  
 
-- ➡️ [See the Latest Additions](https://inai.short.gy/12th-sept)
+- ➡️ [See the Latest Additions](https://inai.short.gy/13th-sept)
 
 > INAI’s **2M+ AI Database** is alive and growing — every day.
 
