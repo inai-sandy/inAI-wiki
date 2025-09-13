@@ -93,6 +93,8 @@ We **add new content daily** — fresh apps, agents, and LLMs to keep you ahead.
 
 ➡️ [See the Latest Additions](https://inai.short.gy/13th-sept)
 
+💡 Got something new? [Submit it here](../../issues/new?template=add-item.md&title=%5BNEW%5D+<Name>)
+
 > INAI’s **2M+ AI Database** is alive and growing — every day.
 
 ---
@@ -133,6 +135,8 @@ You can help right now:
 - 📣 Spread the word on **X / Reddit / HN / LinkedIn**  
 
 ---
+### 🚀 Submit a new App/Agent/LLM
+[Open the submission form](../../issues/new?assignees=&labels=enhancement%2Cdata&projects=&template=add-item.md&title=%5BNEW%5D+<Name>)
 
 ### 📢 Share INAI
 Add this badge to your repo, docs, or website to support INAI:
