@@ -146,8 +146,9 @@ Add this badge to your repo, docs, or website to support INAI:
 ---
 
 ## ⚖️ License
-[CC BY-NC 4.0](LICENSE.md) — free with attribution, non-commercial use only.  
-See [TERMS.md](TERMS.md) for fair-use & API access.  
+- 📊 Data: [CC BY-NC 4.0](LICENSE.md#data-license) — free with attribution, **non-commercial only**.  
+- 🧑‍💻 Code: [MIT](LICENSE.md#code-license) — open use with attribution.  
+- 📌 Forks must preserve this LICENSE file. 
 
 ---
 
