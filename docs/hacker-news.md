@@ -9,9 +9,10 @@ Title: Hacker News AI • INAI
 > Technical discussions, libraries, and benchmarks from HN — summarized for quick reading.
 
 ## ✅ Today’s Highlights
-- Included inside: 👉 **[Hacker News — 13 Sept](hacker-news/2025/2025-09-13.md)**
+- Included inside: 👉 **[Hacker News — 14 Sept](hacker-news/2025/2025-09-14.md)**
 
 ## 📅 Recent Days
+- 14 Sept — see **[Hacker News](hacker-news/2025/2025-09-14.md)**
 - 13 Sept — see **[Hacker News](hacker-news/2025/2025-09-13.md)**
 - 12 Sept — see **[Hacker News](hacker-news/2025/2025-09-12.md)**
 - 11 Sept — see **[Hacker News](hacker-news/2025/2025-09-11.md)**
