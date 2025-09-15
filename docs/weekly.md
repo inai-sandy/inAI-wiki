@@ -30,16 +30,13 @@ If you missed our daily drops, this is the fastest way to catch up on what truly
 - OpenAI reportedly secured a massive Oracle cloud deal worth $30-300B (figures vary across reports), reshaping the AI infrastructure landscape.
 - The FTC launched investigations into AI platforms regarding child safety and exaggerated AI claims, while legal challenges mount against several major AI companies.
 
-➡️ [Read full digest →](weekly/2025/sept 7-13.md)
-➡️ [Read full digest →](weekly/2025/sept 7-13.md)
+➡️ [Read full digest →](weekly/2025/sept7-13.md)
 
 ---
 
 ## 📅 Previous Weeks
 
-- [Sept 1 – 6, 2025](weekly/2025-09-01.md)  
-- [Aug 24 – 31, 2025](weekly/2025-08-24.md)  
-- [Aug 17 – 23, 2025](weekly/2025-08-17.md)  
+- [Sept 1 – 6, 2025](weekly/2025/sept1-7.md)
 - [All Weekly Archives →](weekly.md)
 
 ---
