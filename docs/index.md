@@ -1,13 +1,6 @@
 ---
 title: INAI • The Open AI Hub
 ---
-<div align="center">
-
-**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md)  
-
-**News Feeds:** [Twitter](twitter-news.md) · [Reddit](reddit-news.md) · [Hacker News](hacker-news.md)
-
-</div>
 
 <div align="center">
 
@@ -23,14 +16,18 @@ title: INAI • The Open AI Hub
 Maintained by [Sandeep Karnati](https://github.com/inai-sandy) •  
 Latest updates 👉 [inai.wiki](https://www.inai.wiki)
 
-</div>
+---
+
+**Browse:** [Home](index.md) · [Tools](tools.md) · [LLMs](llms.md) · [Agents](agents.md) · [Tutorials](tutorials.md)  
+**News Feeds:** [Twitter](twitter-news.md) · [Reddit](reddit-news.md) · [Hacker News](hacker-news.md)
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Mission-Open%20Wikipedia%20of%20AI-4B9CD3?style=flat-square" alt="Mission"/>
-  <img src="https://img.shields.io/badge/Database-2M%2B%20AI%20Resources-7A5BEF?style=flat-square" alt="Database"/>
-  <img src="https://img.shields.io/badge/Updates-Daily%20News%20·%20Apps%20·%20Agents%20·%20LLMs-F97316?style=flat-square" alt="Daily updates"/>
-</p>
+
+<img src="https://img.shields.io/badge/Mission-Open%20Wikipedia%20of%20AI-4B9CD3?style=flat-square" alt="Mission"/>
+<img src="https://img.shields.io/badge/Database-2M%2B%20AI%20Resources-7A5BEF?style=flat-square" alt="Database"/>
+<img src="https://img.shields.io/badge/Updates-Daily%20News%20·%20Apps%20·%20Agents%20·%20LLMs-F97316?style=flat-square" alt="Daily updates"/>
+
+</div>
 
 ---
 
