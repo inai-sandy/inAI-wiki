@@ -2,7 +2,7 @@
 title: INAI • The Open AI Hub
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 # 🚀 INAI • The Open AI Hub  
 
