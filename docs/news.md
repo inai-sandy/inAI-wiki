@@ -23,6 +23,7 @@ image: /assets/inai-news-banner.png
 
 ## 🆕 New AI Tools, Agents & LLMs (Daily)
 *(curated lists outside the site)*  
+- 26 Sept — **[New AI Tools](https://inai.short.gy/26th-sept)**
 - 25 Sept — **[New AI Tools](https://inai.short.gy/25th-sept)**
 - 24 Sept — **[New AI Tools](https://inai.short.gy/24th-sept)**
 - 23 Sept — **[New AI Tools](https://inai.short.gy/23rd-sept)**
@@ -48,6 +49,7 @@ image: /assets/inai-news-banner.png
 
 ## 📅 Daily Archive
 ### September 2025
+- 26 Sept — [AI News](news/2025/2025-09-26.md)
 - 25 Sept — [AI News](news/2025/2025-09-25.md)
 - 24 Sept — [AI News](news/2025/2025-09-24.md)
 - 23 Sept — [AI News](news/2025/2025-09-23.md)
