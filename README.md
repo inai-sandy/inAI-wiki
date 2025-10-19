@@ -91,7 +91,7 @@ Not just a blog or a list; it’s a **living map of the AI ecosystem**.
 ## 🔥 Recently Added
 We **add new content daily** — fresh apps, agents, and LLMs to keep you ahead.  
 
-➡️ [See the Latest Additions](https://inai.short.gy/18th-oct)
+➡️ [See the Latest Additions](https://inai.short.gy/19th-oct)
 
 💡 Got something new? [Submit it here](../../issues/new?template=add-item.md&title=%5BNEW%5D+<Name>)
 
