@@ -9,9 +9,10 @@ Title: Reddit News • INAI
 > Daily roundup from top AI subreddits — showcases, releases, discussions.
 
 ## ✅ Today’s Highlights
-- Included inside: 👉 **[Reddit News — 20 Oct](reddit-news/2025/2025-10-20.md)**
+- Included inside: 👉 **[Reddit News — 21 Oct](reddit-news/2025/2025-10-21.md)**
 
 ## 📅 Daily Archive ### October 2025
+- 21 Oct — see **[Reddit News](reddit-news/2025/2025-10-21.md)**
 - 20 Oct — see **[Reddit News](reddit-news/2025/2025-10-20.md)**
 - 19 Oct — see **[Reddit News](reddit-news/2025/2025-10-19.md)**
 - 18 Oct — see **[Reddit News](reddit-news/2025/2025-10-18.md)**
