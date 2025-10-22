@@ -15,7 +15,7 @@ image: /assets/inai-news-banner.png
 ---
 
 ## ✅ Today’s Edition
-**21 Oct 2025** — 👉 **[Read Now](news/2025/2025-10-21.md)**
+**22 Oct 2025** — 👉 **[Read Now](news/2025/2025-10-22.md)**
 
 > TL;DR at the top, then sections: New Tools, LLMs, Research, Industry, Tutorials.
 
@@ -23,6 +23,7 @@ image: /assets/inai-news-banner.png
 
 ## 🆕 New AI Tools, Agents & LLMs (Daily) 📅 Daily Archive
 ### October 2025
+- 22 Oct — **[New AI Tools](https://inai.short.gy/22nd-oct)**
 - 21 Oct — **[New AI Tools](https://inai.short.gy/21st-oct)**
 - 20 Oct — **[New AI Tools](https://inai.short.gy/20th-oct)**
 - 19 Oct — **[New AI Tools](https://inai.short.gy/19th-oct)**
@@ -76,6 +77,7 @@ image: /assets/inai-news-banner.png
 ---
 
 ## 📅 Daily Archive ### October 2025
+- 22 Oct — [AI News](news/2025/2025-10-22.md)
 - 21 Oct — [AI News](news/2025/2025-10-21.md)
 - 20 Oct — [AI News](news/2025/2025-10-20.md)
 - 19 Oct — [AI News](news/2025/2025-10-19.md)
