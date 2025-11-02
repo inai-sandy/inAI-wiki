@@ -26,7 +26,7 @@ image: /assets/inai-news-banner.png
 - 02 Nov — **[New AI Tools](https://inai.short.gy/02nd-nov)**
 - 01 Nov — **[New AI Tools](https://inai.short.gy/01st-nov)**
 
-## 📅 Daily Archive ### October 2025
+## 📅 Daily Archive ### November 2025
 - 02 Nov — [AI News](news/2025/2025-11-02.md)
 - 01 Nov — [AI News](news/2025/2025-11-01.md)
 
