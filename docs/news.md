@@ -15,7 +15,7 @@ image: /assets/inai-news-banner.png
 ---
 
 ## ✅ Today’s Edition
-**28 Nov 2025** — 👉 **[Read Now](news/2025/2025-11-28.md)**
+**29 Nov 2025** — 👉 **[Read Now](news/2025/2025-11-29.md)**
 
 > TL;DR at the top, then sections: New Tools, LLMs, Research, Industry, Tutorials.
 
@@ -53,6 +53,7 @@ image: /assets/inai-news-banner.png
 
 ## 📅 Daily Archive 
 ### November 2025
+- 29 Nov — [AI News](news/2025/2025-11-29.md)
 - 28 Nov — [AI News](news/2025/2025-11-28.md)
 - 27 Nov — [AI News](news/2025/2025-11-27.md)
 - 26 Nov — [AI News](news/2025/2025-11-26.md)
