@@ -10,11 +10,13 @@ Title: Twitter News • INAI
 
 ## ✅ Today’s Highlights
 - Top threads and launches are summarized inside Daily AI News:
-- 👉 **[Go to Today’s AI Updates on Twitter](twitter-news/2025/2025-12-02.md)**
+- 👉 **[Go to Today’s AI Updates on Twitter](twitter-news/2025/2025-12-04.md)**
 
 ## 📚 What shows up here
 - Tool launches, model releases, benchmarks, demos, key debates.
 ## 📅 Daily Archive ### December 2025
+- 04 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-04.md)**
+- 03 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-03.md)**
 - 02 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-02.md)**
 - 01 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-01.md)**
 

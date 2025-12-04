@@ -12,6 +12,9 @@ Title: Reddit News • INAI
 - Included inside: 👉 **[Reddit News — 27 Nov](reddit-news/2025/2025-11-27.md)**
 
 ## 📅 Daily Archive ### November 2025
+- 04 Dec — see **[Reddit News](reddit-news/2025/2025-12-04.md)**
+
+## 📅 Daily Archive ### November 2025
 - 27 Nov — see **[Reddit News](reddit-news/2025/2025-11-27.md)**
 - 26 Nov — see **[Reddit News](reddit-news/2025/2025-11-26.md)**
 - 25 Nov — see **[Reddit News](reddit-news/2025/2025-11-25.md)**
