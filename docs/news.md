@@ -15,12 +15,14 @@ image: /assets/inai-news-banner.png
 ---
 
 ## ✅ Today’s Edition
-**04 Dec 2025** — 👉 **[Read Now](news/2025/2025-12-04.md)**
+**06 Dec 2025** — 👉 **[Read Now](news/2025/2025-12-06.md)**
 
 > TL;DR at the top, then sections: New Tools, LLMs, Research, Industry, Tutorials.
 
 ## 📅 Daily Archive 
 ### December 2025
+- 06 Dec — [AI News](news/2025/2025-12-06.md)
+- 05 Dec — [AI News](news/2025/2025-12-05.md)
 - 04 Dec — [AI News](news/2025/2025-12-04.md)
 - 03 Dec — [AI News](news/2025/2025-12-03.md)
 - 02 Dec — [AI News](news/2025/2025-12-02.md)
@@ -29,6 +31,8 @@ image: /assets/inai-news-banner.png
 ---
 ## 🆕 New AI Tools, Agents & LLMs (Daily) 📅 Daily Archive
 ### December 2025
+- 06 Dec — **[New AI Tools](https://inai.short.gy/06th-dec)**
+- 05 Dec — **[New AI Tools](https://inai.short.gy/05th-dec)**
 - 04 Dec — **[New AI Tools](https://inai.short.gy/04th-dec)**
 - 03 Dec — **[New AI Tools](https://inai.short.gy/03rd-dec)**
 - 02 Dec — **[New AI Tools](https://inai.short.gy/02nd-dec)**
