@@ -13,7 +13,6 @@ Title: Hacker News AI • INAI
 
 ## 📅 Daily Archive ### November 2025
 - 23 Dec — see **[Hacker News](hacker-news/2025/2025-12-23.md)**
-- 22 Dec — see **[Hacker News](hacker-news/2025/2025-12-22.md)**
 - 21 Dec — see **[Hacker News](hacker-news/2025/2025-12-21.md)**
 - 20 Dec — see **[Hacker News](hacker-news/2025/2025-12-20.md)**
 - 19 Dec — see **[Hacker News](hacker-news/2025/2025-12-19.md)**

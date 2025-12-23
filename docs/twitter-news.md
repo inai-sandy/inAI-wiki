@@ -16,7 +16,6 @@ Title: Twitter News • INAI
 - Tool launches, model releases, benchmarks, demos, key debates.
 ## 📅 Daily Archive ### December 2025
 - 23 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-23.md)**
-- 22 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-22.md)**
 - 21 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-21.md)**
 - 20 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-20.md)**
 - 19 Dec — Highlights included in **[Twitter News](twitter-news/2025/2025-12-19.md)**
