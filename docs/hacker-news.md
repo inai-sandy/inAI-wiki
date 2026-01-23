@@ -12,6 +12,8 @@ Title: Hacker News AI • INAI
 - Included inside: 👉 **[Hacker News — 21 Jan](hacker-news/2025/2026-01-21.md)**
 
 ## 📅 Daily Archive ### January 2026
+- 23 Jan — see **[Hacker News](hacker-news/2025/2026-01-23.md)**
+- 22 Jan — see **[Hacker News](hacker-news/2025/2026-01-22.md)**
 - 21 Jan — see **[Hacker News](hacker-news/2025/2026-01-21.md)**
 - 20 Jan — see **[Hacker News](hacker-news/2025/2026-01-20.md)**
 - 19 Jan — see **[Hacker News](hacker-news/2025/2026-01-19.md)**
