@@ -15,10 +15,12 @@ image: /assets/inai-news-banner.png
 ---
 
 ## ✅ Today’s Edition
-**23 Jan 2026** — 👉 **[Read Now](news/2025/2026-01-23.md)**
+**25 Jan 2026** — 👉 **[Read Now](news/2025/2026-01-25.md)**
 > TL;DR at the top, then sections: New Tools, LLMs, Research, Industry, Tutorials.
 
 ## 📅 Daily Archive 
+- 25 Jan — [AI News](news/2025/2026-01-25.md)
+- 24 Jan — [AI News](news/2025/2026-01-24.md)
 - 23 Jan — [AI News](news/2025/2026-01-23.md)
 - 22 Jan — [AI News](news/2025/2026-01-22.md)
 - 21 Jan — [AI News](news/2025/2026-01-21.md)
